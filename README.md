@@ -72,7 +72,7 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 
 4. Maak een nieuwe klasse `Ingredient` aan, dit gaat het framework worden van een ingredient object
 
-5. Maak 3 *private* variabelen aan binnen de klasse, namelijk `amount`, `unit` en `name`. Geef deze de juiste datatypes.
+5. Maak 3 **private** variabelen aan binnen de klasse, namelijk `amount`, `unit` en `name`. Geef deze de juiste datatypes.
 
 6. Maak een lege constructor aan en een constructor gevuld met alle 3 de variabelen. Zet ook voor alle variabelen zowel een getter als een setter in deze klasse.
 
