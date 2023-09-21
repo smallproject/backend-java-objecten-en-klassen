@@ -95,4 +95,4 @@ Let op: het is uitdagender om jouw eigen stappenplan te maken. Als je niet zo go
 ## Extra opdrachten
 
 1. Zou je ook een methode kunnen maken die alle stappen uitprint? Dan hoef je niet alle methode aan te roepen van uit de `Main` klasse. Ziet dat er niet een stuk netter uit?
-2. Zou je dit misschien met meer recepten kunenn doen? Probeer zelf een recept toe te voegen en op de zelfde manier uit te voeren als het appeltaart recept.
+2. Zou je dit misschien met meer recepten kunnen doen? Probeer zelf een recept toe te voegen en op de zelfde manier uit te voeren als het appeltaart recept.
