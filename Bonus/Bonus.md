@@ -10,12 +10,12 @@ Maak een _Film_ klasse met attributen als titel regisseur, releasedatum en genre
 Maak een _Winkel_ klasse met een aantal vaste product attibuten, zoals "cola" of "candles" en een zelfde aantal attributen om bij te houden hoeveel producten er zijn, zoals "colaAmount" of "candlesAmount". Voeg methoden toe om producten toe te voegen, de voorraad te controleren en producten te verkopen.
 
 ## Opdracht 3: Bedrijf
-Maak een _Bedrijf_ klasse met attributen voor bedrijfsnaam en de manager. 
+Maak een _Bedrijf_ klasse met attributen voor bedrijfsnaam en de manager. Voeg een methode toe die alle bedrijfsinfo laat zien.
 
 Maak een _Manager_ klasse met attributen voor naam en leeftijd.
 
 ## Opdracht 4: Dierentuin
-Maak een _Dierentuin_ klasse met voor elk _Dier_ een eigen attribuut. 
+Maak een _Dierentuin_ klasse met voor elk _Dier_ een eigen attribuut. Voeg een methode toe die alle dieren in deze dierentuin laat zien. 
 
 Maak een _Dier_ klasse met attributen als naam, soort, voedsel en verblijf
 
