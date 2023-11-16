@@ -17,7 +17,7 @@ Maak een _Manager_ klasse met attributen voor naam en leeftijd.
 ## Opdracht 4: Dierentuin
 Maak een _Dierentuin_ klasse met voor elk _Dier_ een eigen attribuut. 
 
-Maak een _Dier_ klasse met attributen als naam, soort, voedsel en verblijf.git 
+Maak een _Dier_ klasse met attributen als naam, soort, voedsel en verblijf
 
 ## Opdracht 5: Auto 
 Maak een _Auto_ met attributen als motorinhoud, topsnelheid, kleur, brandstoftype en merknaam, maar ook 4 _Wielen_ en een _Motor_. 
