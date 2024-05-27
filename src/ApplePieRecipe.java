@@ -1,12 +1,31 @@
 public class ApplePieRecipe {
 
-
+    public Ingredient roomboter = new Ingredient("ongezouten roomboter", 200, "gram");
+    public Ingredient suiker = new Ingredient("witte bastard suiker", 200, "gram");
+    public Ingredient bakmeel = new Ingredient("zelfrijzend bakmeel", 200, "gram");
+    public Ingredient ei = new Ingredient("ei", 1, "stuk");
+    public Ingredient vanille = new Ingredient("vanillesuiker", 8, "gram");
+    public Ingredient zout = new Ingredient("zout", 1, "snuf");
+    public Ingredient appels = new Ingredient("zoetzure appels", 1.5, "kilo");
+    public Ingredient kristalSuiker = new Ingredient("kristal suiker", 75, "gram");
+    public Ingredient kaneel = new Ingredient("kaneel", 3, "theelepels");
+    public Ingredient paneermeel = new Ingredient("paneermeel", 15, "gram");
 
     public void printIngredients() {
         System.out.println("Ingredienten:");
+        System.out.println(roomboter.getAmount() + " " + roomboter.getUnit() + " " + roomboter.getName());
+        System.out.println(suiker.getAmount() + " " + suiker.getUnit() + " " + suiker.getName());
+        System.out.println(bakmeel.getAmount() + " " + bakmeel.getUnit() + " " + bakmeel.getName());
+        System.out.println(ei.getAmount() + " " + ei.getUnit() + " " + ei.getName());
+        System.out.println(vanille.getAmount() + " " + vanille.getUnit() + " " + vanille.getName());
+        System.out.println(zout.getAmount() + " " + zout.getUnit() + " " + zout.getName());
+        System.out.println(appels.getAmount() + " " + appels.getUnit() + " " + appels.getName());
+        System.out.println(kristalSuiker.getAmount() + " " + kristalSuiker.getUnit() + " " + kristalSuiker.getName());
+        System.out.println(kaneel.getAmount() + " " + kaneel.getUnit() + " " + kaneel.getName());
+        System.out.println(paneermeel.getAmount() + " " + paneermeel.getUnit() + " " + paneermeel.getName());
     }
 
-    public void printRecipe() {}{
+    public void printRecipe() {
         System.out.println("Stappen:");
         verwarm();
         klop();

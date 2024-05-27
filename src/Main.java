@@ -9,9 +9,9 @@ public class Main {
 
         ApplePieRecipe recipe = new ApplePieRecipe();
 
-        //recipe.printIngredients();
+        recipe.printIngredients();
 
-        //recipe.printRecipe();
+        recipe.printRecipe();
     }
 
     public static void ingredients()
